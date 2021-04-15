@@ -1,0 +1,19 @@
+body{
+    background-color:black;
+   
+}
+.col-sm-8-col-md-7-py-4{
+font-family: cursive;
+}
+#navbar-toggler{
+background-color: lawngreen;
+}
+.text-white{
+    text-align: left;
+}
+.text-muted{
+    text-align: left;
+}
+.butten{
+    align-items: flex-start;
+}
